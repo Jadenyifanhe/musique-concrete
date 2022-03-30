@@ -2,7 +2,7 @@
 
 This is the project repository for CMU 10-615 Art and Machine Learning Project 3. In this project, we created a music concrete using NSynth, a deep learning enhanced sound synthesis model, and Wav2Clip, an audio-to-image model. Through our work, we seek to explore the themes of fusion and transmutation.
 
-![wind gif](https://user-images.githubusercontent.com/29810416/160751548-b31ba218-796e-4b58-a868-20faff1a6ad8.gif)
+<img src="https://user-images.githubusercontent.com/29810416/160751548-b31ba218-796e-4b58-a868-20faff1a6ad8.gif" alt="example_output" width="250"/>
 
 **Models:**
 We applied the [NSynth model](https://github.com/magenta/magenta/tree/main/magenta/models/nsynth) developed by Magenta using this [Colab Notebook](https://colab.research.google.com/notebooks/magenta/nsynth/nsynth.ipynb#scrollTo=mPwQYyYgBkdp). We applied [Ho-Hsiang Wu's implementation](https://github.com/descriptinc/lyrebird-wav2clip) of [Wav2Clip](https://descriptinc.github.io/lyrebird-wav2clip/).
