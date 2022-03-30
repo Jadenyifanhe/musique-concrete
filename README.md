@@ -21,4 +21,6 @@ The sounds we used in this project were manually selected from the [ESC-50 Datas
 
 Our report is included in this repository. You can also check out our report via [this link](https://docs.google.com/document/d/1KwEqKgCIGuYXSz3o8kpGEADSAuHeE1pH/edit?usp=sharing&ouid=100645612073317945557&rtpof=true&sd=true).
 
-Our presentation slide can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vTttjY2Kp5sWfDjAlfN3NTsJFj4kJO70X89WuwjJtK-B2JHBjXKyDLj2gY57IloCB3L6V7Xi_Sk57j5/pub?start=false&loop=false&delayms=3000&slide=id.g1204cd3a86d_0_151). A video of our final work, which is a music concrete accompanied by Wav2Clip-generated images, can be found [here](https://drive.google.com/file/d/1ON-0FpG1lckTHHOmRpaJ9X7J7BKvamzK/view?usp=sharing).
+Our presentation slide can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vTttjY2Kp5sWfDjAlfN3NTsJFj4kJO70X89WuwjJtK-B2JHBjXKyDLj2gY57IloCB3L6V7Xi_Sk57j5/pub?start=false&loop=false&delayms=3000&slide=id.g1204cd3a86d_0_151). 
+
+A video of our final work, which is a music concrete accompanied by Wav2Clip-generated images, can be found [here](https://drive.google.com/file/d/1ON-0FpG1lckTHHOmRpaJ9X7J7BKvamzK/view?usp=sharing).
